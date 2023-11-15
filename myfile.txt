@@ -1,1 +1,2 @@
+This line only exists on the second_branch
 This is a new line of content for the file
